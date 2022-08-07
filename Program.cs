@@ -7,12 +7,12 @@ namespace EmployeeWages
     {
         public static void Main(string[] args)
         {
-            // EmployeePresentAbsent.EmployeePresentOrAbsent();
+             EmployeePresentAbsent.EmployeePresentOrAbsent();
             //DailyEmpwage.EmployeeDailyWage();
             // PartTimeEmployeeWage.PartTimeWage();
            // SwitchCaseStatement.CaseStatement();
 
-            CalculateWages.calculateHrswages();
+           // CalculateWages.calculateHrswages();
 
             //MonthlyEmpWage.MontlyWageComputation()//
         }
